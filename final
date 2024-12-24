@@ -1,0 +1,5 @@
+
+
+En Java, la palabra clave final
+se utiliza para declarar elementos que no pueden cambiar después de ser asignados o definidos.
+Puede aplicarse a variables, métodos y clases, y su significado depende del contexto
