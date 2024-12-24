@@ -3,3 +3,10 @@
 En Java, la palabra clave final
 se utiliza para declarar elementos que no pueden cambiar después de ser asignados o definidos.
 Puede aplicarse a variables, métodos y clases, y su significado depende del contexto
+
+Cuándo usar final
+
+    Variables: Para valores que no deben cambiar después de su asignación.
+    Métodos: Para evitar que una subclase modifique su comportamiento.
+    Clases: Para crear clases inmutables o evitar la herencia.
+    Parámetros: Para garantizar que no se alteren dentro del método.
