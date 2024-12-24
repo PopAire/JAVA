@@ -1,0 +1,10 @@
+
+
+El método setPreferredSize en Java se utiliza para establecer el
+tamaño preferido de un componente en una interfaz gráfica. 
+Este método pertenece a la clase JComponent, de la cual derivan 
+la mayoría de los componentes Swing como JPanel, JButton, entre otros.
+
+Aunque este tamaño no garantiza que el componente tenga exactamente esas dimensiones,
+actúa como una sugerencia para el administrador de diseño (layout manager), 
+que decidirá el tamaño final del componente al organizarlo dentro del contenedor.
