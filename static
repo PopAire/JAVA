@@ -1,0 +1,11 @@
+Cuándo usar static
+
+    Para inicializaciones que solo deben realizarse una vez al cargar la clase.
+    Para atributos o métodos que deben ser compartidos entre todas las instancias de la clase.
+    Para funciones que no dependen del estado de la instancia.
+
+    Características clave de static
+
+    Los miembros static se asocian con la clase, no con una instancia.
+    Los métodos static no pueden usar directamente variables o métodos no estáticos (necesitan una referencia de objeto para ello).
+    Los métodos static se usan frecuentemente para utilidades o funcionalidades globales, como Math.sqrt().
