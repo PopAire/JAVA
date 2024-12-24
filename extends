@@ -1,0 +1,5 @@
+          
+
+extends    Permite que una clase pueda usar metodos y comportamientos de otra.
+          [ PUBLIC CLASS juego EXTENDS Canvas]
+    {Pemite que juego pueda dibujar formas y lineas ect. dentro de canvas}
