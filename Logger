@@ -1,0 +1,2 @@
+Un Logger es un objeto que permite registrar mensajes en diferentes niveles de importancia
+(INFO, DEBUG, ERROR, etc.). Se usa para monitorear el comportamiento del sistema y diagnosticar problemas.
