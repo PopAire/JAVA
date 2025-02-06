@@ -1,0 +1,28 @@
+
+public class ooo {
+    
+    public static void main (String args []){
+        //Declarar Var vacias..
+        String oso;
+        int dos;
+        double fraccion;
+        
+        System.out.println("[Ej_01] Resta (int)");
+        int uno = 123;
+        dos = uno - 23;
+        System.out.println("123-23 = "+dos);
+        System.out.println();
+        
+        System.out.println("[Ej_02] Resta (double)");
+        double fraction = 0.9;
+        fraccion = fraction - 0.5;
+        System.out.println("0.9-0.5 = "+fraccion);
+        System.out.println();
+        
+        System.out.println("[Ej_03] Multip (int x double)");
+        int galones = 11;
+        double litros = galones * 3.7852;
+        System.out.println("11 x 3.7852 = "+litros);
+        System.out.println();
+    }
+}
